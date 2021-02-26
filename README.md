@@ -23,5 +23,9 @@ To send an email you would need to enter your Email and Password by making an ed
 
 This collects all the data from Thingspeak Server, and in addition to that sends back data about each room's occupancy. 
 Also, it listens continously and whenever there is an update about User getting a positive report sends an email to all people who came in contact with that person.
-Also there is a an excel file which stores all the email ID's of people mapped with the MAC Address.
- 
+Also there is an excel file which stores all the email ID's of people mapped with the MAC Address.
+
+![Raspberry Pi Module](https://user-images.githubusercontent.com/54408300/109353182-fe571e00-7849-11eb-80d2-0dbbc07bbc9e.jpeg)
+![Contact List of a User](https://user-images.githubusercontent.com/54408300/109353253-1e86dd00-784a-11eb-9027-ebb6dbf8f9f8.jpeg)
+![Email Update](https://user-images.githubusercontent.com/54408300/109353078-db2c6e80-7849-11eb-8aac-66a05884ae07.jpeg)
+
