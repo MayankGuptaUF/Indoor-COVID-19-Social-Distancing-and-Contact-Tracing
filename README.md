@@ -5,8 +5,8 @@ README:
 
 The Code is divided into follwoing folders-
 
-1) Room1- 
-2) Room2-
+1) Room1 
+2) Room2
 3) System_Server
 
 Room1
